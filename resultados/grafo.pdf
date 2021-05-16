@@ -1,0 +1,13 @@
+// Mejor camino
+digraph {
+	n7
+	n7 -> n2 [label=900.0]
+	n4
+	n4 -> n5 [label=300.0]
+	n3
+	n3 -> n4 [label=600.0]
+	n2
+	n2 -> n3 [label=500.0]
+	n6
+	n6 -> n7 [label=360.0]
+}
